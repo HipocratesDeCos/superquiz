@@ -1,0 +1,9 @@
+// codigo.json
+{
+  "materias": [
+    {
+      "nombre": "Contabilidad Financiera",
+      "temas": [ ... ]
+    }
+  ]
+}
